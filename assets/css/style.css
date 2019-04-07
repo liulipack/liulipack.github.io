@@ -61,8 +61,6 @@ html, body {
     margin: 10px auto 0;
 
     letter-spacing: 1px;
-
-    outline: none;
 }
 
 /* 链接 */
@@ -109,5 +107,7 @@ html, body {
 
 a {
     text-decoration: none;
+
     color: #4f4f4f;
+    outline: none;
 }

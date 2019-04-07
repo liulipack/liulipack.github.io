@@ -13,8 +13,9 @@ html, body {
 
 /* 卡片 */
 .container {
-    font-family: 'Roboto';
+    font-family: Roboto, Noto, Helvetica, Arial, sans-serif;
     line-height: 1.4;
+    font-weight: 300;
 
     display: flex;
 
@@ -107,13 +108,4 @@ html, body {
 a {
     text-decoration: none;
     color: #4f4f4f;
-}
-
-/* Roboto 字体 */
-@font-face {
-  font-family: 'Roboto';
-  font-style: italic;
-  font-weight: 100;
-
-  src: local('Roboto LightItalic'), local('Roboto-ThinItalic'), url('../fonts/roboto/Roboto-LightItalic.woff2') format('woff2'), url('../fonts/roboto/Roboto-LightItalic.woff') format('woff');
 }

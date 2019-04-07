@@ -61,6 +61,8 @@ html, body {
     margin: 10px auto 0;
 
     letter-spacing: 1px;
+
+    outline: none;
 }
 
 /* 链接 */

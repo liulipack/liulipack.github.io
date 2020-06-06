@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liulipack.github.io</id>
     <title>Liulipack 博客</title>
-    <updated>2020-06-05T13:13:31.415Z</updated>
+    <updated>2020-06-06T00:08:00.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liulipack.github.io"/>
     <link rel="self" href="https://liulipack.github.io/atom.xml"/>
@@ -17,7 +17,8 @@
         </link>
         <updated>2020-06-01T16:39:33.000Z</updated>
         <summary type="html"><![CDATA[<h1 id="更新记录">更新记录</h1>
-<p>2020年06月05日20:18:46 - 进度 (40/50)*100=80%<br>
+<p>2020年06月06日08:05:41 - 进度 (50/50)*100=100%<br>
+2020年06月05日20:18:46 - 进度 (40/50)*100=80%<br>
 2020年06月04日16:42:32 - 进度 (30/50)*100=60%<br>
 2020年06月03日18:52:22 - 进度 (20/50)*100=40%<br>
 2020年06月03日17:32:15 - 进度 (17/50)*100=34%<br>
@@ -26,7 +27,8 @@
 <p><audio src="http://music.163.com/song/media/outer/url?id=480097183.mp3" style="width: 100%;" controls="controls"></audio></p>
 ]]></summary>
         <content type="html"><![CDATA[<h1 id="更新记录">更新记录</h1>
-<p>2020年06月05日20:18:46 - 进度 (40/50)*100=80%<br>
+<p>2020年06月06日08:05:41 - 进度 (50/50)*100=100%<br>
+2020年06月05日20:18:46 - 进度 (40/50)*100=80%<br>
 2020年06月04日16:42:32 - 进度 (30/50)*100=60%<br>
 2020年06月03日18:52:22 - 进度 (20/50)*100=40%<br>
 2020年06月03日17:32:15 - 进度 (17/50)*100=34%<br>

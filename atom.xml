@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liulipack.github.io</id>
     <title>Liulipack 博客</title>
-    <updated>2020-06-09T13:53:16.443Z</updated>
+    <updated>2020-06-09T14:10:52.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liulipack.github.io"/>
     <link rel="self" href="https://liulipack.github.io/atom.xml"/>
@@ -139,13 +139,14 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[壁纸包出处——编辑手册]]></title>
+        <title type="html"><![CDATA[[壁纸包出处]编辑手册]]></title>
         <id>https://liulipack.github.io/post/wallpaper-traceability manual/</id>
         <link href="https://liulipack.github.io/post/wallpaper-traceability manual/">
         </link>
         <updated>2020-05-18T03:54:15.000Z</updated>
         <summary type="html"><![CDATA[<h1 id="更新记录">更新记录</h1>
-<p>2020年06月03日19:40:00 - 将“警告”部分即将废止的《<a href="http://www.npc.gov.cn/zgrdw/npc/xinwen/2017-03/15/content_2018907.htm">中华人民共和国民法总则</a>》，改为《<a href="http://www.npc.gov.cn/npc/c30834/202006/75ba6483b8344591abd07917e1d25cc8.shtml">中华人民共和国民法典</a>》。<br>
+<p>2020年06月09日22:06:54 - 统一标题。<br>
+2020年06月03日19:40:00 - 将“警告”部分即将废止的《<a href="http://www.npc.gov.cn/zgrdw/npc/xinwen/2017-03/15/content_2018907.htm">中华人民共和国民法总则</a>》，改为《<a href="http://www.npc.gov.cn/npc/c30834/202006/75ba6483b8344591abd07917e1d25cc8.shtml">中华人民共和国民法典</a>》。<br>
 2020年06月02日13:43:01 - 增强“翻译-作品角色译名”的部分规范。<br>
 2020年06月02日08:50:51 - 重绘头图。取消隐藏。<br>
 2020年06月02日08:35:51 - 增强”记录规范“部分的规范。<br>
@@ -153,7 +154,8 @@
 2020年05月18日12:25:43 - 初稿。</p>
 ]]></summary>
         <content type="html"><![CDATA[<h1 id="更新记录">更新记录</h1>
-<p>2020年06月03日19:40:00 - 将“警告”部分即将废止的《<a href="http://www.npc.gov.cn/zgrdw/npc/xinwen/2017-03/15/content_2018907.htm">中华人民共和国民法总则</a>》，改为《<a href="http://www.npc.gov.cn/npc/c30834/202006/75ba6483b8344591abd07917e1d25cc8.shtml">中华人民共和国民法典</a>》。<br>
+<p>2020年06月09日22:06:54 - 统一标题。<br>
+2020年06月03日19:40:00 - 将“警告”部分即将废止的《<a href="http://www.npc.gov.cn/zgrdw/npc/xinwen/2017-03/15/content_2018907.htm">中华人民共和国民法总则</a>》，改为《<a href="http://www.npc.gov.cn/npc/c30834/202006/75ba6483b8344591abd07917e1d25cc8.shtml">中华人民共和国民法典</a>》。<br>
 2020年06月02日13:43:01 - 增强“翻译-作品角色译名”的部分规范。<br>
 2020年06月02日08:50:51 - 重绘头图。取消隐藏。<br>
 2020年06月02日08:35:51 - 增强”记录规范“部分的规范。<br>
@@ -202,15 +204,19 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2020年04月号 壁纸包出处]]></title>
+        <title type="html"><![CDATA[[壁纸包出处]2020年04月号]]></title>
         <id>https://liulipack.github.io/post/wallpaper-pack 202004/</id>
         <link href="https://liulipack.github.io/post/wallpaper-pack 202004/">
         </link>
         <updated>2020-05-01T16:47:14.000Z</updated>
-        <summary type="html"><![CDATA[<p>最后更新于 2020年05月11日17:53:19</p>
+        <summary type="html"><![CDATA[<h1 id="更新记录">更新记录</h1>
+<p>2020年06月09日22:09:47 - 统一标题。<br>
+2020年05月11日17:53:19</p>
 <p><audio src="https://music.163.com/song/media/outer/url?id=1357628571.mp3" style="width: 100%;" controls="controls"></audio></p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>最后更新于 2020年05月11日17:53:19</p>
+        <content type="html"><![CDATA[<h1 id="更新记录">更新记录</h1>
+<p>2020年06月09日22:09:47 - 统一标题。<br>
+2020年05月11日17:53:19</p>
 <p><audio src="https://music.163.com/song/media/outer/url?id=1357628571.mp3" style="width: 100%;" controls="controls"></audio></p>
 ]]></content>
     </entry>

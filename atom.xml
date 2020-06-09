@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liulipack.github.io</id>
     <title>Liulipack 博客</title>
-    <updated>2020-06-09T14:10:52.958Z</updated>
+    <updated>2020-06-09T14:30:21.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liulipack.github.io"/>
     <link rel="self" href="https://liulipack.github.io/atom.xml"/>
@@ -11,13 +11,13 @@
     <icon>https://liulipack.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Liulipack 博客</rights>
     <entry>
-        <title type="html"><![CDATA[[壁纸包出处]2020年05月号]]></title>
+        <title type="html"><![CDATA[[壁纸包出处]琉璃神社壁纸包 2020年05月号]]></title>
         <id>https://liulipack.github.io/post/wallpaper-pack 202005/</id>
         <link href="https://liulipack.github.io/post/wallpaper-pack 202005/">
         </link>
         <updated>2020-06-01T16:39:33.000Z</updated>
         <summary type="html"><![CDATA[<h1 id="更新记录">更新记录</h1>
-<p>2020年06月09日21:45:47 - 统一标题。<br>
+<p>2020年06月09日22:24:58 - 统一标题。<br>
 2020年06月06日08:05:41 - 进度 (50/50)*100=100%<br>
 2020年06月05日20:18:46 - 进度 (40/50)*100=80%<br>
 2020年06月04日16:42:32 - 进度 (30/50)*100=60%<br>
@@ -28,7 +28,7 @@
 <p><audio src="http://music.163.com/song/media/outer/url?id=480097183.mp3" style="width: 100%;" controls="controls"></audio></p>
 ]]></summary>
         <content type="html"><![CDATA[<h1 id="更新记录">更新记录</h1>
-<p>2020年06月09日21:45:47 - 统一标题。<br>
+<p>2020年06月09日22:24:58 - 统一标题。<br>
 2020年06月06日08:05:41 - 进度 (50/50)*100=100%<br>
 2020年06月05日20:18:46 - 进度 (40/50)*100=80%<br>
 2020年06月04日16:42:32 - 进度 (30/50)*100=60%<br>
@@ -204,18 +204,18 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[壁纸包出处]2020年04月号]]></title>
+        <title type="html"><![CDATA[[壁纸包出处]琉璃神社壁纸包 2020年04月号]]></title>
         <id>https://liulipack.github.io/post/wallpaper-pack 202004/</id>
         <link href="https://liulipack.github.io/post/wallpaper-pack 202004/">
         </link>
         <updated>2020-05-01T16:47:14.000Z</updated>
         <summary type="html"><![CDATA[<h1 id="更新记录">更新记录</h1>
-<p>2020年06月09日22:09:47 - 统一标题。<br>
+<p>2020年06月09日22:27:59 - 统一标题。<br>
 2020年05月11日17:53:19</p>
 <p><audio src="https://music.163.com/song/media/outer/url?id=1357628571.mp3" style="width: 100%;" controls="controls"></audio></p>
 ]]></summary>
         <content type="html"><![CDATA[<h1 id="更新记录">更新记录</h1>
-<p>2020年06月09日22:09:47 - 统一标题。<br>
+<p>2020年06月09日22:27:59 - 统一标题。<br>
 2020年05月11日17:53:19</p>
 <p><audio src="https://music.163.com/song/media/outer/url?id=1357628571.mp3" style="width: 100%;" controls="controls"></audio></p>
 ]]></content>

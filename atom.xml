@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liulipack.github.io</id>
     <title>Liulipack 博客</title>
-    <updated>2020-07-02T04:36:49.607Z</updated>
+    <updated>2020-07-02T04:40:56.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liulipack.github.io"/>
     <link rel="self" href="https://liulipack.github.io/atom.xml"/>
@@ -16,6 +16,18 @@
         <link href="https://liulipack.github.io/post/wallpaper-pack 202006/">
         </link>
         <updated>2020-07-01T17:22:33.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="更新记录">更新记录</h1>
+<p>2020年07月02日01:27:23 - 完善部分基础信息。<br>
+2020年07月02日02:03:24 - 完善出处列表部分。进度 (0/32)*100=0%<br>
+2020年07月02日02:58:34 - 进度 (5/32)*100=15.625%<br>
+2020年07月02日12:35:50 - 进度 (15/32)*100=46.875%</p>
+]]></summary>
+        <content type="html"><![CDATA[<h1 id="更新记录">更新记录</h1>
+<p>2020年07月02日01:27:23 - 完善部分基础信息。<br>
+2020年07月02日02:03:24 - 完善出处列表部分。进度 (0/32)*100=0%<br>
+2020年07月02日02:58:34 - 进度 (5/32)*100=15.625%<br>
+2020年07月02日12:35:50 - 进度 (15/32)*100=46.875%</p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[壁纸包出处]琉璃神社壁纸包 2020年05月号]]></title>

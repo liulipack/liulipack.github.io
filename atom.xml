@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liulipack.github.io</id>
     <title>Liulipack 博客</title>
-    <updated>2020-07-12T03:42:44.797Z</updated>
+    <updated>2020-08-20T12:07:58.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liulipack.github.io"/>
     <link rel="self" href="https://liulipack.github.io/atom.xml"/>
@@ -10,13 +10,6 @@
     <logo>https://liulipack.github.io/images/avatar.png</logo>
     <icon>https://liulipack.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Liulipack 博客</rights>
-    <entry>
-        <title type="html"><![CDATA[nyaa.net-吉祥物]]></title>
-        <id>https://liulipack.github.io/post/nyaa.net-mascot/</id>
-        <link href="https://liulipack.github.io/post/nyaa.net-mascot/">
-        </link>
-        <updated>2020-07-12T03:28:04.000Z</updated>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[壁纸包出处]琉璃神社壁纸包 2020年06月号]]></title>
         <id>https://liulipack.github.io/post/wallpaper-pack 202006/</id>
@@ -222,6 +215,19 @@
 ~~或许根本没人，会注意到我这么卑微的我吧...~~ 去睡觉吧，梦里什么都有～-->
 <h1 id="警告">警告！</h1>
 <p>本图集部分图片包含敏感内容，请满足当地<a href="https://zh.wikipedia.org/wiki/%E6%88%90%E4%BA%BA%E5%B9%B4%E9%BE%84">法定成年</a>后尝试获取相关内容。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用 RSS 的方式获取琉璃神社更新。]]></title>
+        <id>https://liulipack.github.io/post/QuiteRSS-manual/</id>
+        <link href="https://liulipack.github.io/post/QuiteRSS-manual/">
+        </link>
+        <updated>2020-05-06T09:53:21.000Z</updated>
+        <summary type="html"><![CDATA[<p>最后更新于 2020年05月08日10:36:12</p>
+<p>由于我使用的是 Deepin-linux 系统，所以很可能出现与你实际使用情况出现出入。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>最后更新于 2020年05月08日10:36:12</p>
+<p>由于我使用的是 Deepin-linux 系统，所以很可能出现与你实际使用情况出现出入。</p>
 ]]></content>
     </entry>
 </feed>
